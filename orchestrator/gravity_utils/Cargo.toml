@@ -9,7 +9,7 @@ edition = "2018"
 [dependencies]
 gravity_proto = {path = "../gravity_proto/"}
 
-deep_space = "2.8"
+deep_space = "2.9"
 web30 = "0.18"
 clarity = "0.5"
 num256 = "0.3"
@@ -23,4 +23,4 @@ url = "2"
 sha3 = "0.10"
 [dev_dependencies]
 rand = "0.8"
-actix = "0.12"
+actix = "0.13"
